@@ -69,7 +69,7 @@ a:hover {
   background-image: url(assets/images/hero.png);
   background-size: cover;
   background-position: center;
-  height: 60vh;
+  height: 400px;
   text-align: center;
   position: relative;
 }
@@ -452,7 +452,7 @@ a:hover {
 .footers h4 {
   color: #cecece;
   text-transform: uppercase;
-  font-size: 26px;
+  font-size: 20px;
   letter-spacing: 5px;
   padding-top: 10px;
   font-weight: 700;
@@ -460,7 +460,7 @@ a:hover {
 
 .footers p {
   color: #cecece;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 500;
   letter-spacing: 1px;
   font-family: "Roboto", sans-serif;
@@ -498,12 +498,12 @@ hr {
 }
 
 .footers .copyright {
-  font-size: 14px;
+  font-size: 12px;
   color: #cecece;
 }
 
 .footers .credits {
-  font-size: 13px;
+  font-size: 11px;
   padding-top: 5px;
   color: #cecece;
 }
@@ -519,7 +519,7 @@ hr {
 }
 
 .footers .footer-links a {
-  font-size: 12px;
+  font-size: 11px;
   color: #cccccc;
   padding-left: 15px;
   text-decoration: none;
@@ -722,5 +722,25 @@ hr {
   .contactus h1 {
     margin-top: 30px;
     font-size: 35px;
+  }
+
+  .footers h4 {
+    font-size: 26px;
+  }
+
+  .footers p {
+    font-size: 16px;
+  }
+
+  .footers .copyright {
+    font-size: 14px;
+  }
+
+  .footers .credits {
+    font-size: 13px;
+  }
+
+  .footers .footer-links a {
+    font-size: 12px;
   }
 }
