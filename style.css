@@ -34,10 +34,9 @@ a:hover {
 }
 
 .nav-link {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   text-align: center;
-  margin-right: 10px;
 }
 
 .btn-contact {
@@ -110,7 +109,7 @@ a:hover {
   display: inline-block;
   background: #fdc134;
   margin: auto;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 .jumbotron .btn-get-started:hover {
@@ -281,7 +280,6 @@ a:hover {
 
 .contactus .info {
   width: 100%;
-  background: #fff;
 }
 
 .contactus .info i {
@@ -310,7 +308,7 @@ a:hover {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #8795a4;
+  color: #5c6269;
 }
 
 .contactus .info .email,
@@ -327,7 +325,6 @@ a:hover {
 
 .contactus .email-form {
   width: 100%;
-  background: #fff;
 }
 
 .contactus .email-form .form-group {
@@ -599,13 +596,13 @@ hr {
 
   .logo {
     display: inline-block;
-    width: 75px;
+    width: 70px;
     height: 50px;
   }
 
   .nav-link {
-    margin-right: 10px;
-    font-size: 14px;
+    margin-right: 7px;
+    font-size: 13px;
     font-weight: 400;
   }
 
